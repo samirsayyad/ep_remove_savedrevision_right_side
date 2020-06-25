@@ -1,0 +1,19 @@
+{
+  "name": "ep_remove_savedrevision_right_side",
+  "version": "1.0.0",
+  "description": "remove savedrevision start icon from right side of toolbar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samirsayyad/ep_remove_savedrevision_right_side.git"
+  },
+  "author": "Samir Sayyad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samirsayyad/ep_remove_savedrevision_right_side/issues"
+  },
+  "homepage": "https://github.com/samirsayyad/ep_remove_savedrevision_right_side#readme"
+}
